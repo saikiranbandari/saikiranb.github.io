@@ -1,0 +1,39 @@
+/*-----------------------------------------------------------------------------------
+
+	Theme Name: Rayan
+	Theme URI: http://rayan-per.bitballoon.com
+	Description: The Onepage Parallax Template.
+	Author: a90sh
+	Author URI: https://themeforest.net/user/a90sh
+	Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == jam icons == */
+@import url("plugins/jam-icons.min.css");
+
+/* == owl carousel == */
+@import url("plugins/owl.carousel.min.css");
+
+/* == slick  == */
+@import url("plugins/slick.css");
+@import url("plugins/slick-theme.css");
+
+/* == fancybox == */
+@import url("plugins/jquery.fancybox.min.css");
+
+/* == animate == */
+@import url("plugins/animate.css");
+
+/* == helpers == */
+@import url("plugins/helpers.css");
